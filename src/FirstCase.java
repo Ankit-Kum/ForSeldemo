@@ -59,7 +59,7 @@ public class FirstCase {
 	
 	
 	
-	public static void main(String[] args) throws InterruptedException {
+	public static main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 	
 		FirstCase ob = new FirstCase();
